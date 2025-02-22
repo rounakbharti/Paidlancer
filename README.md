@@ -9,15 +9,7 @@ Paidlancer is a full-stack freelance marketplace that connects clients and freel
 ✔️ Enhances collaboration with real-time messaging and a responsive user interface  
 ✔️ Ensures scalability with a robust backend for seamless user experience  
 
----
-
-## 🛠️ Technologies Used  
-- **Frontend:** ReactJS, JavaScript, CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Authentication:** JWT (JSON Web Token)  
-- **APIs:** REST API  
-- **Other:** WebSockets for real-time communication  
+--- 
 
 ---
 
@@ -29,7 +21,15 @@ Paidlancer is a full-stack freelance marketplace that connects clients and freel
 ![Demo Image 4](./demo/image4.png)  
 ![Demo Image 5](./demo/image5.png)  
 ![Demo Image 6](./demo/image6.png)  
-![Demo Image 7](./demo/image7.png)  
+![Demo Image 7](./demo/image7.png) 
+
+## 🛠️ Technologies Used  
+- **Frontend:** ReactJS, JavaScript, CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (JSON Web Token)  
+- **APIs:** REST API  
+- **Other:** WebSockets for real-time communication 
 
 ---
 
