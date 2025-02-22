@@ -11,8 +11,6 @@ Paidlancer is a full-stack freelance marketplace that connects clients and freel
 
 --- 
 
----
-
 ## 📸 Demo  
 ### 🎬 User Interface  
 ![Demo Image 1](./demo/image1.png)  
@@ -22,6 +20,8 @@ Paidlancer is a full-stack freelance marketplace that connects clients and freel
 ![Demo Image 5](./demo/image5.png)  
 ![Demo Image 6](./demo/image6.png)  
 ![Demo Image 7](./demo/image7.png) 
+
+---
 
 ## 🛠️ Technologies Used  
 - **Frontend:** ReactJS, JavaScript, CSS, Bootstrap  
